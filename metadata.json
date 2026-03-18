@@ -1,0 +1,5 @@
+{
+  "name": "Audio Clipper AI",
+  "description": "An intelligent audio clipping tool. Upload an audio file, specify the start and end times, and instantly generate a perfectly trimmed audio clip, ready for playback and download.",
+  "requestFramePermissions": []
+}
